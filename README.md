@@ -1,8 +1,8 @@
-## Alinhamento de Sequências de Bioninformática  ##
+# Alinhamento de Sequências de Bioninformática  #
 
 Repositório dedicado para fins de pesquisa de iniciação científica. 
 
-# Ferramentas ##
+## Ferramentas ##
 
 - Nextflow;
 - Nf-core;
