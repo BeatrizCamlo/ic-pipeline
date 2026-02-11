@@ -1,0 +1,13 @@
+.nextflow*
+.nextflow/
+work/
+results/
+trace.txt
+timeline.html
+report.html
+
+
+.DS_Store
+.vscode/
+.idea/
+
